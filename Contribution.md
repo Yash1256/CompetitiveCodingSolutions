@@ -10,3 +10,4 @@
 - ## [Laurel Verma](https://github.com/1laurelverma)
 - ## [Vedant Dhoble](https://github.com/VedanT-27)
 - ## [Chinmay Lohani](https://github.com/Golden-Hunter)
+- ## [Venkatesh Tripathi](https://github.com/venkyvt7)
