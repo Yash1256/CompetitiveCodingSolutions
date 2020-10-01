@@ -1,1 +1,1 @@
-# Hackerrank-Solutions
+# CompetitiveCodingSolutions
