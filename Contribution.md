@@ -8,4 +8,5 @@
 - ## [Yash Gupta](https://github.com/giyasht)
 - ## [HARDIK SHARMA](https://github.com/hardik302001)
 - ## [Laurel Verma](https://github.com/1laurelverma)
+- ## [Vedant Dhoble](https://github.com/VedanT-27)
 - ## [Chinmay Lohani](https://github.com/Golden-Hunter)
