@@ -1,3 +1,5 @@
+//Question Link: https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem
+//Solution By: https://www.hackerrank.com/fawadmirza32
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
