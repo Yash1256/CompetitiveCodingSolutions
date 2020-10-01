@@ -10,6 +10,8 @@ Hi there 👋
 
 -  Create Seperate README.md File in specific folder (If not Created) and List the Questions With their links in it, so that it will be easy to get the questions with respective  solution.
 
+-  Create Seperate README.md File in specific folder (If not Created) and List the Questions With their Links in it, So it will be easy to get the question with Solution.
+
 -  At Last Don't Forget to Add your Name in Contribution.md File So that it will show that you have Contributed in this Hacktoberfest 2020.
 
 -  Do git add, commit and Finally Push to Submit your PULL REQUEST.
