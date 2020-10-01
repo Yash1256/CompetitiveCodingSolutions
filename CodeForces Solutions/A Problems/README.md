@@ -25,3 +25,4 @@
 - ### [Most Unstable Array](https://codeforces.com/contest/1353/problem/A)
 - ### [Minimal Squares](https://codeforces.com/contest/1360/problem/A)
 - ### [Maximum GCD](https://codeforces.com/contest/1370/problem/A)
+- ### [Divisibility Problem](https://codeforces.com/contest/1328/problem/A)
