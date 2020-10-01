@@ -4,7 +4,7 @@ Hi there 👋
 
 -  Feel Free to Contribute to the Solutions Of the Different Coding Platforms such as Hackerank, Hackerearth, Codeforces, Codechef, Spoj, CSES and Others. 
 
--  Fork it and use `git clone https://github.com/Yash1256/CompetitiveCodingSolutions.git` to clone the Repository to your Local Machine.
+-  Fork it and use `git clone https://github.com/<Your Github Handle>/CompetitiveCodingSolutions.git` to clone the Repository to your Local Machine.
 
 -  Create a Seperate Branch for the Specefic Platform and Upload your Solutions in the Specefic folder Use `git checkout -b <Your Branch Name>` and add the Codes.
 
