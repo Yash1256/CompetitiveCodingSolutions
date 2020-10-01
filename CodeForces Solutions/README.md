@@ -17,3 +17,4 @@
 - ### [Snacktower](https://codeforces.com/contest/767/problem/A)
 - ### [Oath of the Night's Watch](https://codeforces.com/contest/768/problem/A)
 - ### [Unimodal Array](https://codeforces.com/contest/831/problem/A)
+- ### [Jeff and Digits](https://codeforces.com/problemset/problem/352/A)
