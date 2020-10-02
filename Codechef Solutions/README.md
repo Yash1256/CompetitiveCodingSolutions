@@ -7,3 +7,4 @@
  * ## [Chef and Subarrays](https://www.codechef.com/problems/CHEFARRP)
  * ## [Find Remainder](https://www.codechef.com/problems/FLOW002)
  * ## [Uniform Strings](https://www.codechef.com/problems/STRLBP)
+ * ## [Ada Matrix](https://www.codechef.com/SEPT20B/problems/ADAMAT)
