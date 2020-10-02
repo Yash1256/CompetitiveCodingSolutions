@@ -10,4 +10,6 @@
 - ## [Laurel Verma](https://github.com/1laurelverma)
 - ## [Vedant Dhoble](https://github.com/VedanT-27)
 - ## [Chinmay Lohani](https://github.com/Golden-Hunter)
-- ## [Happy Kumar](https://github.com/happy-jays)
+- ## [Venkatesh Tripathi](https://github.com/venkyvt7)
+- ## [Falguni Sarkar](https://github.com/lostgirljourney)
+- ## [Suraj Kumar](https://github.com/Surajkumar573)
