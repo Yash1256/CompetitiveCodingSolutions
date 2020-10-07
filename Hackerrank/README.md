@@ -9,6 +9,7 @@
  * ## [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)
  * ## [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
  * ## [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
+ * ## [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
  * ## [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)
  * ## [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
  * ## [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)
