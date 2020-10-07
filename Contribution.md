@@ -17,4 +17,3 @@
 - ## [Divya Rajput](https://github.com/Diu2912)
 - ## [zahinekbal](https://github.com/zahinekbal)
 - ## [Happy Kumar](https://github.com/happy-jays)
-- ## [Niranjan Kumar](https://github.com/niranjantuty)
