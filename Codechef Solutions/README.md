@@ -8,3 +8,8 @@
  * ## [Find Remainder](https://www.codechef.com/problems/FLOW002)
  * ## [Uniform Strings](https://www.codechef.com/problems/STRLBP)
  * ## [Ada Matrix](https://www.codechef.com/SEPT20B/problems/ADAMAT)
+ * ## [Chef and Price Control](https://www.codechef.com/JUNE20B/problems/PRICECON)
+ * ## [Chef and String](https://www.codechef.com/JUNE20B/problems/XYSTR)
+ * ## [Chef and Icecream](https://www.codechef.com/JUNE20B/problems/CHFICRM)
+ * ## [The Tom and Jerry Game!](https://www.codechef.com/JUNE20B/problems/EOEO)
+ * ## [Even Matrix](https://www.codechef.com/JUNE20B/problems/EVENM)
