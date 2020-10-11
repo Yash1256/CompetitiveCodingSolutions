@@ -52,5 +52,6 @@
  * ## [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)
  * ## [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
  * ## [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
+ * ## [Deletion of a node from linked list](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
 
  
