@@ -25,3 +25,4 @@
 - ### [Most Unstable Array](https://codeforces.com/contest/1353/problem/A)
 - ### [Minimal Squares](https://codeforces.com/contest/1360/problem/A)
 - ### [Maximum GCD](https://codeforces.com/contest/1370/problem/A)
+- ### [Super Agent](https://codeforces.com/problemset/problem/12/A)
