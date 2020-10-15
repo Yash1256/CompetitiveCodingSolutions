@@ -27,3 +27,4 @@
 - ### [Maximum GCD](https://codeforces.com/contest/1370/problem/A)
 - ### [Super Agent](https://codeforces.com/problemset/problem/12/A)
 - ### [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A)
+- ### [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A)
