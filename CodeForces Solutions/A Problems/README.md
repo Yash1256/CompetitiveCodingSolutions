@@ -29,3 +29,4 @@
 - ### [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A)
 - ### [Gennady and a Card Game](https://codeforces.com/problemset/problem/1097/A)
 - ### [Love "A"](https://codeforces.com/problemset/problem/1146/A)
+- ### [New Year and Naming](https://codeforces.com/problemset/problem/1284/A)
