@@ -26,4 +26,4 @@
 - ### [Minimal Squares](https://codeforces.com/contest/1360/problem/A)
 - ### [Maximum GCD](https://codeforces.com/contest/1370/problem/A)
 - ### [Super Agent](https://codeforces.com/problemset/problem/12/A)
-- ### [Super Agent](https://codeforces.com/problemset/problem/1003/A)
+- ### [Polycarp's Pockets](https://codeforces.com/problemset/problem/1003/A)
