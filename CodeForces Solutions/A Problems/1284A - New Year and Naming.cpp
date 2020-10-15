@@ -6,6 +6,8 @@ using namespace std;
     ios_base::sync_with_stdio(false); \
     cin.tie(NULL)
 #define ignore cin.ignore(1, '\n')
+
+//macro to input string
 #define strinp(i, n, s)           \
     if (i < n - 1)                \
     {                             \
