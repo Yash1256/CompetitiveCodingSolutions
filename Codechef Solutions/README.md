@@ -13,3 +13,4 @@
  * ## [Chef and Icecream](https://www.codechef.com/JUNE20B/problems/CHFICRM)
  * ## [The Tom and Jerry Game!](https://www.codechef.com/JUNE20B/problems/EOEO)
  * ## [Even Matrix](https://www.codechef.com/JUNE20B/problems/EVENM)
+ * ## [Replace for X](https://www.codechef.com/problems/REPLESX)
