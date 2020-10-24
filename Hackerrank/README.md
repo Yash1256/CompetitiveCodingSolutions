@@ -32,9 +32,11 @@
  * ## [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook/problem)
  * ## [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)
  * ## [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery/problem)
+ * ## [The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)
  * ## [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)
  * ## [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)
  * ## [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+ * ## [Maximize It!](https://www.hackerrank.com/challenges/maximize-it/problem)
  * ## [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
  * ## [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem)
  * ## [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
@@ -53,5 +55,6 @@
  * ## [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
  * ## [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays/problem)
  * ## [Deletion of a node from linked list](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)
+
 
  
